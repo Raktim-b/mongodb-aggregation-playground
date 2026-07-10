@@ -436,7 +436,7 @@ This project demonstrates practical knowledge of:
 
 # 👨‍💻 Author
 
-## Srinu
+## Raktim Bhattacharya
 
 **Backend Developer**
 
